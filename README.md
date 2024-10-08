@@ -12,4 +12,6 @@ The model could successfully classify the gestures with high confidence.
 
 ### Video Demo:
 
+The video demo is given below.
+
 https://www.youtube.com/shorts/2aC55__KqOk
