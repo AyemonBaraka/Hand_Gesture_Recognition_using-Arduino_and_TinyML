@@ -10,6 +10,11 @@ After collecting the data for each gesture, I trained the model using Google Col
 
 The model could successfully classify the gestures with high confidence.
 
+Component:
+  * Arduino Nano 33 BLE
+    ![image](https://github.com/user-attachments/assets/ab2072f2-9a10-4907-9278-aec425b57958)
+ 
+
 ### Video Demo:
 
 The video demo is given below.
